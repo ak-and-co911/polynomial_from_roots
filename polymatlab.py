@@ -5,4 +5,3 @@ print("Enter the number in a single line separated by space:")
 val = list(map(int, input().split()))
 matrix = np.array(val).reshape(a,b)
 print(matrix)
-# I don't know what im writing
